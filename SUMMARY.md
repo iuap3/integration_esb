@@ -1,6 +1,5 @@
-# Summary
+# Table of content
 
-* [Introduction](README.md)
 * [产品介绍](articles/cesb/1-/intro.md)
     * [概述](articles/cesb/1-/summary.md)
     * [功能简介](articles/cesb/1-/functions.md)
