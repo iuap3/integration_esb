@@ -2,6 +2,7 @@
 
 * [产品介绍](articles/cesb/1-/intro.md)
     * [产品概述](articles/cesb/1-/summary.md)
+    * [产品优势](articles/cesb/1-/advantages.md)
     * [功能简介](articles/cesb/1-/functions.md)
     * [产品价值](articles/cesb/1-/values.md)
     * [名词术语](articles/cesb/1-/terms.md)
