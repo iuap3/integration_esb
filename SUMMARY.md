@@ -6,7 +6,6 @@
     * [应用场景](articles/cesb/1-/scenarios.md)
     * [基础架构](articles/cesb/1-/structure.md)
     * [功能简介](articles/cesb/1-/functions.md)
-    * [产品价值](articles/cesb/1-/values.md)
     * [产品历程](articles/cesb/1-/terms.md)
 * [快速入门](articles/cesb/3-/quick_start.md)
     * [场景一](articles/cesb/3-/scenario_one.md)
