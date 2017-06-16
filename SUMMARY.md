@@ -5,7 +5,7 @@
     * [产品优势](articles/cesb/1-/advantages.md)
     * [功能简介](articles/cesb/1-/functions.md)
     * [产品价值](articles/cesb/1-/values.md)
-    * [名词术语](articles/cesb/1-/terms.md)
+    * [产品历程](articles/cesb/1-/terms.md)
 * [管理中心](articles/cesb/2-/manage_center.md)
     * [资源管理](articles/cesb/2-/resources.md)
     * [应用管理](articles/cesb/2-/apps.md)
